@@ -12,6 +12,7 @@
 		22A92B702252B8B70022FAD5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22A92B6E2252B8B70022FAD5 /* Main.storyboard */; };
 		22A92B722252B8BD0022FAD5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 22A92B712252B8BD0022FAD5 /* Assets.xcassets */; };
 		22A92B752252B8BD0022FAD5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 22A92B732252B8BD0022FAD5 /* LaunchScreen.storyboard */; };
+		22A92B7D2252BA240022FAD5 /* hustle-on.wav in Resources */ = {isa = PBXBuildFile; fileRef = 22A92B7C2252BA230022FAD5 /* hustle-on.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		22A92B712252B8BD0022FAD5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		22A92B742252B8BD0022FAD5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		22A92B762252B8BD0022FAD5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		22A92B7C2252BA230022FAD5 /* hustle-on.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; name = "hustle-on.wav"; path = "hustle-mode-code-assets/assets/Assets/hustle-on.wav"; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		22A92B692252B8B70022FAD5 /* Launch It */ = {
 			isa = PBXGroup;
 			children = (
+				22A92B7C2252BA230022FAD5 /* hustle-on.wav */,
 				22A92B6A2252B8B70022FAD5 /* AppDelegate.swift */,
 				22A92B6C2252B8B70022FAD5 /* ViewController.swift */,
 				22A92B6E2252B8B70022FAD5 /* Main.storyboard */,
@@ -122,6 +125,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				22A92B7D2252BA240022FAD5 /* hustle-on.wav in Resources */,
 				22A92B752252B8BD0022FAD5 /* LaunchScreen.storyboard in Resources */,
 				22A92B722252B8BD0022FAD5 /* Assets.xcassets in Resources */,
 				22A92B702252B8B70022FAD5 /* Main.storyboard in Resources */,
